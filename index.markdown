@@ -5,9 +5,9 @@
 layout: home
 ---
 
-#Public Speaking
+# Public Speaking
 
-##2023
+## 2023
 - Spring I/O 2023
 - KubeDay Israel 2023
 - Kubernetes Community Days Zürich
@@ -26,7 +26,7 @@ layout: home
 - VMware In-Booth Theater KubeCon Europe 2023
 - VMware Tanzu Virtual Developer Connect Day
 
-##2022
+## 2022
 - Spring I/O 2022
 - WeAreDevelopers World Congress 2022
 - ContainerDays 2022
@@ -45,7 +45,7 @@ layout: home
 - German VMware Podcast about Developer Experience
 - TAS/TAP User Group Event
 
-##2021
+## 2021
 - SpringOne
 - JCON 2021
 - OOP Digital conference 2021
