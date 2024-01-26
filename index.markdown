@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Public Speaking
 ---
-
-# Public Speaking
 
 ## 2023
 - Spring I/O 2023
