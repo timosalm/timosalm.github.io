@@ -6,6 +6,9 @@ layout: home
 title: Public Speaking
 ---
 
+## 2024
+- [Cloud Native Rejekts](https://cloud-native.rejekts.io/) in Paris on March 17-18
+
 ## 2023
 - Spring I/O 2023
 - KubeDay Israel 2023
