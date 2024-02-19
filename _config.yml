@@ -21,7 +21,7 @@
 title: Timo Salm
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  A list of past conference talks and more
+  A list of future and past conference talks and more
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tsalm
