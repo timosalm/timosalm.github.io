@@ -8,6 +8,7 @@ title: Public Speaking
 
 ## 2024
 - [Cloud Native Rejekts](https://cloud-native.rejekts.io/) in Paris on March 17-18
+- [JavaLand](https://www.javaland.eu) at Nürburgring, Germany on April 9-11
 
 ## 2023
 - Spring I/O 2023
