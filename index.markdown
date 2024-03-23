@@ -11,6 +11,8 @@ title: Public Speaking
 - [Microsoft JDConf 2024](https://jdconf.com/#emea) virtual on March 27-28
 - [JavaLand](https://www.javaland.eu) at Nürburgring, Germany on April 9-11
 - [Spring I/O](https://2024.springio.net/) in Barcelona, Spain on May 30-31
+- VMware Tanzu In-Booth Theater KubeCon Europe 2024 (Four talks)
+- CNCF TAG App Delivery Booth KubeCon Europe 2024
 
 ## 2023
 - Spring I/O 2023
