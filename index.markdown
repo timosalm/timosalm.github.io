@@ -77,6 +77,7 @@ title: Public Speaking
 - SpringOne
   [Recording](https://www.youtube.com/watch?v=41mR0ZDKhKw)
 - JCON 2021
+  [Recording](https://www.youtube.com/watch?v=1eOCOJF7OjQ)
 - OOP Digital conference 2021
 - Java Forum Stuttgart
 - SpringOne Tour Booternetes 2 EMEA 
