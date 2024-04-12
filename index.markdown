@@ -8,13 +8,13 @@ title: Public Speaking
 
 ## 2024
 ### Upcoming
-- [JavaLand](https://www.javaland.eu) at Nürburgring, Germany on April 9-11
 - [Spring I/O](https://2024.springio.net/) in Barcelona, Spain on May 30-31
 
 ### Past
 - Cloud Native Rejekts 24 EU
 - Microsoft JDConf 2024
   [Recording](https://www.youtube.com/watch?v=ZQ1Dr1v363Y)
+- JavaLand 2024 at Nürburgring
 - VMware Tanzu In-Booth Theater KubeCon Europe 2024 (Four talks)
 - CNCF TAG App Delivery Booth KubeCon Europe 2024
 
