@@ -9,6 +9,7 @@ title: Public Speaking
 ## 2024
 ### Upcoming
 - [Spring I/O](https://2024.springio.net/) in Barcelona, Spain on May 30-31
+- [WeAreDevelopers World Congress](https://www.wearedevelopers.com/) in Berlin, Germany on July 17-19
 
 ### Past
 - Cloud Native Rejekts 24 EU
