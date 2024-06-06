@@ -8,10 +8,13 @@ title: Public Speaking
 
 ## 2024
 ### Upcoming
-- [Spring I/O](https://2024.springio.net/) in Barcelona, Spain on May 30-31
-- [WeAreDevelopers World Congress](https://www.wearedevelopers.com/) in Berlin, Germany on July 17-19
+- [Devoxx Poland](https://devoxx.pl/) in Krakow, Poland, June 19-21 
+- [WeAreDevelopers World Congress](https://www.wearedevelopers.com/) in Berlin, Germany, July 17-19
+- [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) in Stuttgart, July 31st
+- [Øredev 2024](https://oredev.org/) in Malmö, November 6-8
 
 ### Past
+- Spring I/O 2024
 - Cloud Native Rejekts 24 EU
 - Microsoft JDConf 2024
   [Recording](https://www.youtube.com/watch?v=ZQ1Dr1v363Y)
