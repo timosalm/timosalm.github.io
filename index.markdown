@@ -8,14 +8,14 @@ title: Public Speaking
 
 ## 2024
 ### Upcoming
-- [Devoxx Poland](https://devoxx.pl/) in Krakow, Poland, June 19-21 
 - [WeAreDevelopers World Congress](https://www.wearedevelopers.com/) in Berlin, Germany, July 17-19
 - [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) in Stuttgart, Germany, July 31st
 - [Øredev 2024](https://oredev.org/) in Malmö, Sweden, November 6-8
 
 ### Past
-- Spring I/O 2024
+- Spring I/O 2024 [Recording](https://www.youtube.com/watch?v=yTSnBclhk38)
 - Cloud Native Rejekts 24 EU
+- Devoxx Poland
 - Microsoft JDConf 2024
   [Recording](https://www.youtube.com/watch?v=ZQ1Dr1v363Y)
 - JavaLand 2024 at Nürburgring
