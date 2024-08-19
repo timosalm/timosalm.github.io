@@ -8,17 +8,17 @@ title: Public Speaking
 
 ## 2024
 ### Upcoming
-- [WeAreDevelopers World Congress](https://www.wearedevelopers.com/) in Berlin, Germany, July 17-19
-- [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) in Stuttgart, Germany, July 31st
 - [Øredev 2024](https://oredev.org/) in Malmö, Sweden, November 6-8
 
 ### Past
 - Spring I/O 2024 [Recording](https://www.youtube.com/watch?v=yTSnBclhk38)
 - Cloud Native Rejekts 24 EU
 - Devoxx Poland
+- WeAreDevelopers World Congress
 - Microsoft JDConf 2024
   [Recording](https://www.youtube.com/watch?v=ZQ1Dr1v363Y)
 - JavaLand 2024 at Nürburgring
+- Java Forum Stuttgart
 - VMware Tanzu In-Booth Theater KubeCon Europe 2024 (Four talks)
 - CNCF TAG App Delivery Booth KubeCon Europe 2024
 
