@@ -8,7 +8,9 @@ title: Public Speaking
 
 ## 2024
 ### Upcoming
+- VMware Explore EU in Barcelona, Spain, November 4-7
 - [Øredev 2024](https://oredev.org/) in Malmö, Sweden, November 6-8
+- Generative AI für Developer in ~~Stuttgart, Germany~~ virtual, November 18-20
 
 ### Past
 - Spring I/O 2024 [Recording](https://www.youtube.com/watch?v=yTSnBclhk38)
