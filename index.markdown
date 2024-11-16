@@ -8,8 +8,6 @@ title: Public Speaking
 
 ## 2024
 ### Upcoming
-- VMware Explore EU in Barcelona, Spain, November 4-7
-- [Øredev 2024](https://oredev.org/) in Malmö, Sweden, November 6-8
 - Generative AI für Developer in ~~Stuttgart, Germany~~ virtual, November 18-20
 
 ### Past
@@ -19,8 +17,10 @@ title: Public Speaking
 - WeAreDevelopers World Congress
 - Microsoft JDConf 2024
   [Recording](https://www.youtube.com/watch?v=ZQ1Dr1v363Y)
+- Øredev 2024 in Malmö, Sweden
 - JavaLand 2024 at Nürburgring
 - Java Forum Stuttgart
+- VMware Explore EU in Barcelona
 - VMware Tanzu In-Booth Theater KubeCon Europe 2024 (Four talks)
 - CNCF TAG App Delivery Booth KubeCon Europe 2024
 
