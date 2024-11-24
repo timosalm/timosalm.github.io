@@ -8,7 +8,6 @@ title: Public Speaking
 
 ## 2024
 ### Upcoming
-- Generative AI für Developer in ~~Stuttgart, Germany~~ virtual, November 18-20
 
 ### Past
 - Spring I/O 2024 [Recording](https://www.youtube.com/watch?v=yTSnBclhk38)
@@ -20,6 +19,7 @@ title: Public Speaking
 - Øredev 2024 in Malmö, Sweden
 - JavaLand 2024 at Nürburgring
 - Java Forum Stuttgart
+- Generative AI für Developer
 - VMware Explore EU in Barcelona
 - VMware Tanzu In-Booth Theater KubeCon Europe 2024 (Four talks)
 - CNCF TAG App Delivery Booth KubeCon Europe 2024
