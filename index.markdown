@@ -7,12 +7,12 @@ title: Public Speaking
 ---
 ## 2025
 ### Upcoming
-- J-Spring 2025 - 5 Jun 2025, Java Meets AI: Empowering Spring Developers to Build Intelligent Apps
 - WeAreDevelopers World Congress 2025 - 11 Jul 2025, Java Meets AI: Empowering Spring Developers to Build Intelligent Apps
 - Cloud Native Summit 2025 - 22 Jul 2025, The Magic of Backing Service Provisioning and Consumption With Crossplane and ServiceBindings
 
 ### Past
-- Spring I/O 2025
+- Spring I/O 2025 [Recording](https://www.youtube.com/watch?v=hASsv4eQSgs)
+- J-Spring 2025 
 - JCON Europe 2025
 
 ## 2024
