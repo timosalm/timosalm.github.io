@@ -7,14 +7,15 @@ title: Public Speaking
 ---
 ## 2025
 ### Upcoming
-- VMware Explore Las Vegas - Aug 26, Mastering Challenges of Modern Applications with Spring and VMware Tanzu Platform
-- JUG Saxony Day 2025 - Sept 26, Building AI-Driven Spring Applications With Spring AI
+- JUG Saxony Day 2025, Dresden - Sept 26, Building AI-Driven Spring Applications With Spring AI
+- Devoxx Belgium, Antwerp - Oct 6, Building Private, Scalable AI Applications with Self-Hosted LLMs
   
 ### Past
 - Spring I/O 2025 [Recording](https://www.youtube.com/watch?v=hASsv4eQSgs)
 - J-Spring 2025 
 - JCON Europe 2025
 - WeAreDevelopers World Congress 2025
+- VMware Explore Las Vegas
 - Cloud Native Summit 2025
 
 ## 2024
