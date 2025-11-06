@@ -5,17 +5,22 @@
 layout: home
 title: Public Speaking
 ---
+## 2026
+### Upcoming
+- Jfokus, Stockholm - Feb 2-4, Java Meets AI: Empowering Spring Developers to Build Intelligent Apps
+
 ## 2025
 ### Upcoming
-- JUG Saxony Day 2025, Dresden - Sept 26, Building AI-Driven Spring Applications With Spring AI
-- Devoxx Belgium, Antwerp - Oct 6, Building Private, Scalable AI Applications with Self-Hosted LLMs
+- Moving Forward Conference 2025 "AI x HUMAN – The New Era of Synergy", Vienna - Nov 21, Keynote The Synergy of Developers and AI: Shaping the Future of Applications
   
 ### Past
 - Spring I/O 2025 [Recording](https://www.youtube.com/watch?v=hASsv4eQSgs)
-- J-Spring 2025 
+- Devoxx Belgium
 - JCON Europe 2025
+- J-Spring 2025 
 - WeAreDevelopers World Congress 2025
 - VMware Explore Las Vegas
+- JUG Saxony Day 2025
 - Cloud Native Summit 2025
 
 ## 2024
