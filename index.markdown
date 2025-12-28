@@ -8,13 +8,14 @@ title: Public Speaking
 ## 2026
 ### Upcoming
 - Jfokus, Stockholm - Feb 2-4, Java Meets AI: Empowering Spring Developers to Build Intelligent Apps
+
 ### Past
 
 ## 2025
 - Moving Forward Conference 2025 Vienna, Keynote - The Synergy of Developers and AI: Shaping the Future of Applications
 - Spring I/O 2025 [Recording](https://www.youtube.com/watch?v=hASsv4eQSgs)
 - Devoxx Belgium
-- JCON Europe 2025
+- JCON Europe 2025 [Recording Session 1](https://www.youtube.com/watch?v=UUUn-OtJEdo) [Recording Session 2](https://www.youtube.com/watch?v=PEDJ_8TXMSU) 
 - J-Spring 2025 
 - WeAreDevelopers World Congress 2025
 - VMware Explore Las Vegas
