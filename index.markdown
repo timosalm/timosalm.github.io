@@ -7,9 +7,14 @@ title: Public Speaking
 ---
 ## 2026
 ### Upcoming
-- Jfokus, Stockholm - Feb 2-4, Java Meets AI: Empowering Spring Developers to Build Intelligent Apps
+- Berlin Expert Days, Berlin - Sept 23-24, Building AI Agents with Spring AI
 
 ### Past
+
+## 2026
+- DevTalks Bucharest, Keynote - AI is Now Everyone's Problem. Act Like It!
+- Jfokus, Stockholm [Recording](https://www.youtube.com/watch?v=vcZu7CfOqbg)
+- Spring I/O 2026 [Recording](https://www.youtube.com/watch?v=vcZu7CfOqbg](https://www.youtube.com/watch?v=To724qB8yEk)
 
 ## 2025
 - Moving Forward Conference 2025 Vienna, Keynote - The Synergy of Developers and AI: Shaping the Future of Applications
