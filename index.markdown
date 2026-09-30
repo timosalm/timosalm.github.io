@@ -8,7 +8,7 @@ title: Public Speaking
 ## 2026
 ### Upcoming
 - Porto Tech Hub Conference 2026, Porto, Portugal - Nov 10, Comparing Agentic AI Frameworks for Java
-- Devoxx Belgium, Antwerp, Belgium - Oct 5-9, Workshop: Building Autonomous AI Agents with Spring | Intro to Spring AI
+- Devoxx Belgium, Antwerp, Belgium - Oct 5-9, Workshop: Building Autonomous AI Agents with Spring; Intro to Spring AI
 
 ### Past
 
