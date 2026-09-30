@@ -7,15 +7,16 @@ title: Public Speaking
 ---
 ## 2026
 ### Upcoming
-- Berlin Expert Days, Berlin, Germany - Sept 23-24, Building AI Agents with Spring AI
 - Porto Tech Hub Conference 2026, Porto, Portugal - Nov 10, Comparing Agentic AI Frameworks for Java
+- Devoxx Belgium, Antwerp, Belgium - Oct 5-9, Workshop: Building Autonomous AI Agents with Spring | Intro to Spring AI
 
 ### Past
 
 ## 2026
 - DevTalks Bucharest, Keynote - AI is Now Everyone's Problem. Act Like It!
 - Jfokus, Stockholm [Recording](https://www.youtube.com/watch?v=vcZu7CfOqbg)
-- Spring I/O 2026 [Recording](https://www.youtube.com/watch?v=To724qB8yEk)
+- Spring I/O 2026 [Recording Session 1](https://www.youtube.com/watch?v=To724qB8yEk) [Recording Session 2](https://www.youtube.com/watch?v=1LVzd9Wggg0)
+- Berlin Expert Days
 
 ## 2025
 - Moving Forward Conference 2025 Vienna, Keynote - The Synergy of Developers and AI: Shaping the Future of Applications
