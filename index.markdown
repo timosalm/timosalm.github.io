@@ -3,21 +3,23 @@
 # To modify the layout, see [Recording](https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Public Speaking
+title: Home
 ---
 <div class="bio">
   <img class="bio-photo" src="{{ '/assets/images/timo-salm.jpg' | relative_url }}" alt="Timo Salm">
   <div>
     <p>I'm a Master Solutions Architect at VMware Tanzu by Broadcom with over a decade of experience in customer-facing roles focused on modern applications, DevSecOps, and AI.</p>
-    <p>I regularly speak at conferences, executive briefings, and community events, translating complex technologies like AI into business impact.</p>
+    <p>I regularly speak at conferences, executive briefings, and community events, translating complex technologies like AI into business impact. If you want to get started with AI in Java, check out my <a href="https://spring.academy/courses/spring-ai-intro">Spring AI course on Spring Academy</a>.</p>
     <p>As an ambassador for the Agentic AI Foundation and a Microsoft MVP recognized for my contributions to the developer community, I combine deep technical expertise with a passion for enabling organizations to innovate with AI and other emerging technologies.</p>
     <p>Before joining Pivotal, which was later acquired by VMware and subsequently by Broadcom, I worked as a software architect and full-stack developer for consulting firms in the automotive industry.</p>
     <div class="bio-badges">
-      <img src="{{ '/assets/images/microsoft-mvp.svg' | relative_url }}" alt="Microsoft Most Valuable Professional">
+      <img src="{{ '/assets/images/microsoft-mvp.png' | relative_url }}" alt="Microsoft Most Valuable Professional">
       <img src="{{ '/assets/images/aaif-ambassador.svg' | relative_url }}" alt="Agentic AI Foundation Ambassador">
     </div>
   </div>
 </div>
+
+# Public Speaking
 
 ## 2026
 ### Upcoming

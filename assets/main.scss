@@ -3,6 +3,10 @@
 
 @import "minima";
 
+.home > .page-heading {
+  display: none;
+}
+
 .bio {
   display: flex;
   gap: 2rem;
