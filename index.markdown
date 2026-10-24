@@ -5,18 +5,33 @@
 layout: home
 title: Public Speaking
 ---
+<div class="bio">
+  <img class="bio-photo" src="{{ '/assets/images/timo-salm.jpg' | relative_url }}" alt="Timo Salm">
+  <div>
+    <p>I'm a Master Solutions Architect at VMware Tanzu by Broadcom with over a decade of experience in customer-facing roles focused on modern applications, DevSecOps, and AI.</p>
+    <p>I regularly speak at conferences, executive briefings, and community events, translating complex technologies like AI into business impact.</p>
+    <p>As an ambassador for the Agentic AI Foundation and a Microsoft MVP recognized for my contributions to the developer community, I combine deep technical expertise with a passion for enabling organizations to innovate with AI and other emerging technologies.</p>
+    <p>Before joining Pivotal, which was later acquired by VMware and subsequently by Broadcom, I worked as a software architect and full-stack developer for consulting firms in the automotive industry.</p>
+    <div class="bio-badges">
+      <img src="{{ '/assets/images/microsoft-mvp.svg' | relative_url }}" alt="Microsoft Most Valuable Professional">
+      <img src="{{ '/assets/images/aaif-ambassador.svg' | relative_url }}" alt="Agentic AI Foundation Ambassador">
+    </div>
+  </div>
+</div>
+
 ## 2026
 ### Upcoming
 - Porto Tech Hub Conference 2026, Porto, Portugal - Nov 10, Comparing Agentic AI Frameworks for Java
-- Devoxx Belgium, Antwerp, Belgium - Oct 5-9, Workshop: Building Autonomous AI Agents with Spring; Intro to Spring AI
 
 ### Past
 
 ## 2026
+- Devoxx Belgium, Antwerp [Recording Session 1](https://www.youtube.com/watch?v=q58Y2tyRdCE) [Recording Session 2](https://www.youtube.com/watch?v=JzFelLDiVJQ)
 - DevTalks Bucharest, Keynote - AI is Now Everyone's Problem. Act Like It!
 - Jfokus, Stockholm [Recording](https://www.youtube.com/watch?v=vcZu7CfOqbg)
 - Spring I/O 2026 [Recording Session 1](https://www.youtube.com/watch?v=To724qB8yEk) [Recording Session 2](https://www.youtube.com/watch?v=1LVzd9Wggg0)
 - Berlin Expert Days
+- VMware Explore on Tour Frankfurt
 
 ## 2025
 - Moving Forward Conference 2025 Vienna, Keynote - The Synergy of Developers and AI: Shaping the Future of Applications
