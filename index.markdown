@@ -12,8 +12,8 @@ layout: home
     <p>As an ambassador for the Agentic AI Foundation and a Microsoft MVP recognized for my contributions to the developer community, I combine deep technical expertise with a passion for enabling organizations to innovate with AI and other emerging technologies.</p>
     <p>Before joining Pivotal, which was later acquired by VMware and subsequently by Broadcom, I worked as a software architect and full-stack developer for consulting firms in the automotive industry.</p>
     <div class="bio-badges">
-      <img src="{{ '/assets/images/microsoft-mvp.png' | relative_url }}" alt="Microsoft Most Valuable Professional">
       <img src="{{ '/assets/images/aaif-ambassador.svg' | relative_url }}" alt="Agentic AI Foundation Ambassador">
+      <img src="{{ '/assets/images/microsoft-mvp.png' | relative_url }}" alt="Microsoft Most Valuable Professional">
     </div>
   </div>
 </div>
